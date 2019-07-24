@@ -15,15 +15,16 @@
 #u0 {
   position:fixed;
   left:50%;
-  margin-left:-175px;
-  top:70px;
+  margin-left:-150px;
+  top:50%;
+  margin-top:-237.5px;
 }
 #u0_state0 {
   position:relative;
   left:0px;
   top:0px;
-  width:350px;
-  height:550px;
+  width:300px;
+  height:475px;
   background-image:none;
 }
 #u0_state0_content {
@@ -47,23 +48,23 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:350px;
-  height:489px;
+  width:300px;
+  height:419px;
 }
 #u2 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:350px;
-  height:489px;
+  width:300px;
+  height:419px;
 }
 #u3 {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:236px;
-  width:346px;
+  top:202px;
+  width:296px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -72,8 +73,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:179px;
-  height:46px;
+  width:153px;
+  height:43px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -81,9 +82,10 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'华文隶书 Bold Oblique', '华文隶书 Regular', '华文隶书';
+  font-family:'华文隶书 Bold Oblique', '华文隶书';
   font-weight:700;
   font-style:oblique;
+  font-size:11px;
   color:#000000;
   text-align:center;
 }
@@ -91,12 +93,13 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:504px;
-  width:179px;
-  height:46px;
-  font-family:'华文隶书 Bold Oblique', '华文隶书 Regular', '华文隶书';
+  top:432px;
+  width:153px;
+  height:43px;
+  font-family:'华文隶书 Bold Oblique', '华文隶书';
   font-weight:700;
   font-style:oblique;
+  font-size:11px;
   color:#000000;
   text-align:center;
 }
@@ -105,7 +108,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:179px;
+  width:153px;
   word-wrap:break-word;
 }
 #u6_div {
@@ -113,8 +116,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:161px;
-  height:46px;
+  width:138px;
+  height:43px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -122,22 +125,24 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'华文隶书 Bold Oblique', '华文隶书 Regular', '华文隶书';
+  font-family:'华文隶书 Bold Oblique', '华文隶书';
   font-weight:700;
   font-style:oblique;
+  font-size:11px;
   color:#000000;
   text-align:center;
 }
 #u6 {
   border-width:0px;
   position:absolute;
-  left:189px;
-  top:504px;
-  width:161px;
-  height:46px;
-  font-family:'华文隶书 Bold Oblique', '华文隶书 Regular', '华文隶书';
+  left:162px;
+  top:432px;
+  width:138px;
+  height:43px;
+  font-family:'华文隶书 Bold Oblique', '华文隶书';
   font-weight:700;
   font-style:oblique;
+  font-size:11px;
   color:#000000;
   text-align:center;
 }
@@ -146,7 +151,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:161px;
+  width:138px;
   word-wrap:break-word;
 }
 #u8_img {
@@ -154,23 +159,23 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:50px;
-  height:50px;
+  width:43px;
+  height:43px;
 }
 #u8 {
   border-width:0px;
   position:absolute;
-  left:300px;
-  top:439px;
-  width:50px;
-  height:50px;
+  left:257px;
+  top:376px;
+  width:43px;
+  height:43px;
 }
 #u9 {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:17px;
-  width:46px;
+  top:14px;
+  width:39px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -219,9 +224,8 @@
   top:0px;
   width:1100px;
   height:100px;
-  font-family:'隶书 Oblique', '隶书';
-  font-weight:400;
-  color:#000000;
+  font-size:10px;
+  color:#1E1E1E;
   line-height:24px;
 }
 #u13 {
